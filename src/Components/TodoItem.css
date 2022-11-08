@@ -1,0 +1,18 @@
+.todoItem {
+    border: solid 2px blue;
+    background-color: lightblue;
+    list-style-type: none;
+    text-align: left;
+    height: 40px;
+    padding: 7px 7px 0 7px;
+    margin-bottom: 7px;
+}
+
+.todoItem-completed {
+    border: solid 2px green;
+    background-color: lightgreen;
+}
+
+span {
+    float: right;
+}
